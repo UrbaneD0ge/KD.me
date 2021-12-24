@@ -152,7 +152,7 @@ section {
 }
 
 .work img:hover {
-  opacity: 100%;
+  opacity: 1;
 }
 
 .small {
