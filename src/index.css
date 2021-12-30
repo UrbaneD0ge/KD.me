@@ -116,7 +116,7 @@ section {
   width: 100%;
 }
 
-.card {
+.item {
   position: relative;
   padding: 0;
   /* display: flex; */
@@ -145,6 +145,7 @@ section {
   align-items: flex-start;
   opacity: 0.5;
   transition-duration: 1s;
+  aspect-ratio: 1;
   }
 
 .work a {

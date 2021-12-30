@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(93, 32, 151);
+}
+
+.main {
+  display: flex;
+  align-self: end;
+  align-items: flex-end;
+  flex-direction: column;
+  object-fit: contain;
+  width: 85vw;
+  flex-wrap: wrap;
+  padding: 2vw;
+}
+
+ul {
+  font-size: larger;
+  padding: 8px;
+}
+
+a {
+  color: black !important;
+}
+
+.card {
+  border-radius: 20px;
+}
