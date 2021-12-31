@@ -9,8 +9,9 @@ function App() {
             <h1><a href="http:kipdunlap.me" rel="noreferrer">Kipling C. Dunlap</a></h1>
         </header>
         <ul>
-            <li><a className="btn orange" href="https://docs.google.com/document/d/1vkpMSKmEacOYjhZEVyZuvSriz0JI9MmWvxPNrwSwGog/edit?usp=sharing" rel="noreferrer">Resume</a></li>
+          <li><a className="btn orange" href="https://docs.google.com/document/d/1vkpMSKmEacOYjhZEVyZuvSriz0JI9MmWvxPNrwSwGog/edit?usp=sharing" target="_blank" rel="noreferrer">Resume</a></li>
             <li><a className="btn orange" href="#contact">Contact</a></li>
+            <li><a className="btn orange" href="#work">Work</a></li>
       </ul>
     </nav>
       <img src="https://i.ibb.co/tJB56MY/simit-cover.jpg" alt="cover" id="cover" />
@@ -65,7 +66,7 @@ function App() {
 
       <footer>
           <section id="contact" class="contact">
-            <h2>Contact <br/> Me</h2>
+            <h2>Contact Me</h2>
             <ul class="contact">
               <li class="tab"><a href="tel:+4045906275">404.590.6275</a></li>
               <li class="tab"><a href="mailto:Kip@KipDunlap.me">Kip@KipDunlap.me</a></li>

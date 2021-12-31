@@ -6,7 +6,7 @@
 }
 
 a {
-  color: black;
+  color: black !important;
 }
 
 a:hover {
@@ -63,7 +63,7 @@ h3 {
 
 h4 {
   color: black;
-  font-size: 3vh;
+  font-size: 2.7vh;
   background-color: var(--skyblue);
   position: absolute;
   bottom: 0;
@@ -104,11 +104,9 @@ nav ul {
   list-style: none;
 }
 
-/* contains page elements on white background */
+/* parent to work section */
 main {
   display: flex;
-  align-self: end;
-  align-items: flex-end;
   flex-direction: column;
   object-fit: contain;
   flex-wrap: wrap;
@@ -117,7 +115,7 @@ main {
 
 section {
   display: flex;
-  width: 75vw;
+  width: 62vw;
 }
 
 .main {
@@ -189,6 +187,7 @@ section {
 
   h1 {
     font-size: 8vw;
+    right: 0;
   }
 
   h2 {
@@ -198,16 +197,26 @@ section {
     right: 0;
   }
 
+  li {
+    margin: 0;
+  }
+
   nav {
     height: 20vh;
+    flex-flow: row wrap;
   }
 
   section, .work, .contact {
     flex-direction: column;
   }
 
+  #content {
+    margin-right: 0;
+  }
+
   #portrait {
     display: block;
+    margin-right: 0;
   }
 
 }
