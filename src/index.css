@@ -5,10 +5,6 @@
   --powderblue: rgb(61, 74, 112);
 }
 
-* {
-  color: black;
-}
-
 a {
   color: black;
 }
@@ -89,6 +85,7 @@ li {
 
 /* nav bar  */
 nav {
+  color: black;
   position: sticky;
   top: 0;
   display: flex;

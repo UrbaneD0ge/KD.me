@@ -6,7 +6,7 @@ function App() {
 
     <nav>
         <header>
-            <h1><a href="kipdunlap.me" rel="noreferrer">Kipling C. Dunlap</a></h1>
+            <h1><a href="http:kipdunlap.me" rel="noreferrer">Kipling C. Dunlap</a></h1>
         </header>
         <ul>
             <li><a className="btn orange" href="https://docs.google.com/document/d/1vkpMSKmEacOYjhZEVyZuvSriz0JI9MmWvxPNrwSwGog/edit?usp=sharing" rel="noreferrer">Resume</a></li>
