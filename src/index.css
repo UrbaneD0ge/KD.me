@@ -5,6 +5,23 @@
   --powderblue: rgb(61, 74, 112);
 }
 
+* {
+  color: black;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: #FF9800 !important;
+}
+
+ul a:hover {
+  color: inherit !important;
+  font-weight: bold;
+}
+
 body {
   color: black;
   background-color: whitesmoke;
@@ -20,6 +37,7 @@ header {
 
 /* my name */
 h1 {
+  color: black;
   position: relative;
   font-size: 3rem;
   right: 30px;
@@ -39,6 +57,7 @@ h2 {
 
 /* card titles */
 h3 {
+  color: black;
   font-size: 4vh;
   background-color: var(--skyblue);
   position: absolute;
@@ -46,11 +65,8 @@ h3 {
   left: 1vw;
 }
 
-a:hover {
-  color: #FF9800 !important;
-}
-
 h4 {
+  color: black;
   font-size: 3vh;
   background-color: var(--skyblue);
   position: absolute;
