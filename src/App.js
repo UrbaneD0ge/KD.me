@@ -29,7 +29,7 @@ function App() {
     </article>
 
     <main>
-      <section id="Work" className="work">
+      <section id="work" className="work">
                 <h2>Work</h2>
                 <div className="main">
                     <a href="https://gamaro.herokuapp.com/" target="_blank" rel="noreferrer">
