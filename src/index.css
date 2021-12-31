@@ -152,7 +152,7 @@ section {
   transition-duration: 1s;
   aspect-ratio: 1;
   object-fit: cover;
-  }
+}
 
 .work img:hover {
   opacity: 1;
