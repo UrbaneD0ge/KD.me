@@ -1,7 +1,7 @@
 /* declare theme colors as vars */
 :root {
-  --skyblue: rgb(146, 204, 205);
-  --slategray: rgb(49, 52, 61);
+  --skyblue: rgb(221, 221, 221);
+  --slategray: rgb(65, 73, 95);
   --powderblue: rgb(61, 74, 112);
 }
 
@@ -13,7 +13,7 @@ body {
 }
 
 header {
-  background-color: var(--skyblue);
+  background-color: whitesmoke;
   color: var(--slategray);
   padding-left: 6vw;
   float: left;
@@ -29,23 +29,27 @@ h1 {
 
 /* section headings */
 h2 {
-  font-size: 4vh;
+  font-size: 5vh;
   color: var(--powderblue);
   position: relative;
-  right: 10vw;
+  right:10vw;
   border-right: solid;
   text-align: right;
+  padding: 5px;
   box-sizing: border-box;
 }
 
 /* card titles */
 h3 {
   font-size: 4vh;
-  color: var(--powderblue);
   background-color: var(--skyblue);
   position: absolute;
   bottom: 6vh;
   left: 1vw;
+}
+
+h3 a:hover {
+  color: #FF9800 !important;
 }
 
 h4 {
@@ -64,11 +68,6 @@ p {
   line-height: 1.2em;
 }
 
-/* nav links */
-nav a {
-  color: var(--skyblue);
-}
-
 li {
   margin: 0 2vw;
   font-size: larger;
@@ -76,17 +75,20 @@ li {
 
 /* nav bar  */
 nav {
+  position: sticky;
+  top: 0;
   display: flex;
   align-items: center;
   justify-content: space-between;
   background-color: var(--slategray);
   color: var(--skyblue);
-  height: 13vh;
+  height: 15vh;
   width: 100vw;
+  z-index: 1;
 }
 
 nav ul {
-  background-color: var(--slategray);
+  background-color: transparent;
   font-size: larger;
   padding: 8px;
   list-style: none;
@@ -99,21 +101,19 @@ main {
   align-items: flex-end;
   flex-direction: column;
   object-fit: contain;
-  width: 85vw;
+  /* width: 95vw; */
   flex-wrap: wrap;
   padding: 2vw;
 }
 
 section {
-  padding: 0 0 0 10vw;
-  margin: 3vh 5vw;
   display: flex;
+  width: 75vw;
 }
 
 .main {
   position: relative;
   padding: 0;
-  width: 100%;
 }
 
 .item {
@@ -126,7 +126,6 @@ section {
 .contact {
   display: flex;
   color: var(--slategray);
-  justify-content: flex-end;
   list-style: none;
   align-self: center;
 }
@@ -139,18 +138,15 @@ section {
 }
 
 .work img {
-  border: var(--skyblue);
+  border: gray;
   border-style: solid;
   border-width: 5px;
   align-items: flex-start;
   opacity: 0.5;
   transition-duration: 1s;
   aspect-ratio: 1;
+  object-fit: cover;
   }
-
-.work a {
-  color: var(--slategray);
-}
 
 .work img:hover {
   opacity: 1;
@@ -158,7 +154,6 @@ section {
 
 .small {
   width: 100%;
-  aspect-ratio: 1;
 }
 
 #cover {
@@ -170,25 +165,37 @@ section {
   width: 100%;
 }
 
-
 #portrait {
   align-self: center;
-  justify-self: start;
-  margin-right: 3vw;
+  margin-right: 5vw;
 }
 
 @media screen and (max-width: 720px) {
-  .small {
+  .item, .main {
     width: 100%;
   }
+
   h1 {
     font-size: 8vw;
   }
+
+  h2 {
+    border-right: none;
+    border-bottom: solid;
+    align-self: center;
+    right: 0;
+  }
+
   nav {
-    height: 20vmin;
+    height: 20vh;
   }
-  #ContactMe {
+
+  section, .work, .contact {
     flex-direction: column;
-    line-height: 1.2em;
   }
+
+  #portrait {
+    display: block;
+  }
+
 }
