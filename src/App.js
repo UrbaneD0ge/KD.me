@@ -15,7 +15,7 @@ function App() {
     </nav>
       <img src="https://i.ibb.co/tJB56MY/simit-cover.jpg" alt="cover" id="cover" />
 
-    <div className="container">
+    <div className="container" id="content">
     <article>
       <section id="about">
             <h2>About Me</h2>

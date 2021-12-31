@@ -1,12 +1,12 @@
 /* declare theme colors as vars */
 :root {
-  --skyblue: rgb(221, 221, 221);
-  --slategray: rgb(65, 73, 95);
+  --skyblue: whitesmoke;
+  --slategray: rgb(38, 46, 71);
   --powderblue: rgb(61, 74, 112);
 }
 
 body {
-  color: var(--powderblue);
+  color: black;
   background-color: whitesmoke;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif, Helvetica, sans-serif;
@@ -14,7 +14,6 @@ body {
 
 header {
   background-color: whitesmoke;
-  color: var(--slategray);
   padding-left: 6vw;
   float: left;
 }
@@ -30,7 +29,6 @@ h1 {
 /* section headings */
 h2 {
   font-size: 5vh;
-  color: var(--powderblue);
   position: relative;
   right:10vw;
   border-right: solid;
@@ -48,7 +46,7 @@ h3 {
   left: 1vw;
 }
 
-h3 a:hover {
+a:hover {
   color: #FF9800 !important;
 }
 
@@ -63,7 +61,7 @@ h4 {
 /* descriptive text */
 p {
   font-size: 3vh;
-  color: var(--powderblue);
+  color: black;
   position: relative;
   line-height: 1.2em;
 }
@@ -81,7 +79,6 @@ nav {
   align-items: center;
   justify-content: space-between;
   background-color: var(--slategray);
-  color: var(--skyblue);
   height: 15vh;
   width: 100vw;
   z-index: 1;
@@ -101,7 +98,6 @@ main {
   align-items: flex-end;
   flex-direction: column;
   object-fit: contain;
-  /* width: 95vw; */
   flex-wrap: wrap;
   padding: 2vw;
 }
@@ -125,7 +121,6 @@ section {
 
 .contact {
   display: flex;
-  color: var(--slategray);
   list-style: none;
   align-self: center;
 }
@@ -154,6 +149,10 @@ section {
 
 .small {
   width: 100%;
+}
+
+#content {
+  margin-right: 17vw;
 }
 
 #cover {
