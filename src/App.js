@@ -9,9 +9,9 @@ function App() {
             <h1><a href="http:kipdunlap.me" rel="noreferrer">Kipling C. Dunlap</a></h1>
         </header>
         <ul>
-          <li><a className="btn orange" href="https://docs.google.com/document/d/1vkpMSKmEacOYjhZEVyZuvSriz0JI9MmWvxPNrwSwGog/edit?usp=sharing" target="_blank" rel="noreferrer">Resume</a></li>
-            <li><a className="btn orange" href="#contact">Contact</a></li>
             <li><a className="btn orange" href="#work">Work</a></li>
+            <li><a className="btn orange" href="#contact">Contact</a></li>
+          <li><a className="btn orange" href="https://docs.google.com/document/d/1vkpMSKmEacOYjhZEVyZuvSriz0JI9MmWvxPNrwSwGog/edit?usp=sharing" target="_blank" rel="noreferrer">Resume</a></li>
       </ul>
     </nav>
       <img src="https://i.ibb.co/tJB56MY/simit-cover.jpg" alt="cover" id="cover" />
