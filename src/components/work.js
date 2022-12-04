@@ -1,41 +1,98 @@
 function Work() {
     return (
-        <main>
-            <section id="Work" className="work">
-                <h2>Work</h2>
-                <div className="main">
-                    <a href="https://gamaro.herokuapp.com/" target="_blank" rel="noreferrer">
-                        <img src="https://i.ibb.co/kmxmn7H/gamaro.png" alt="Gamaro"  id="hero"/></a>
-                    <h3><a href="https://github.com/UrbaneD0ge/Gamaro" target="_blank" rel="noreferrer">Gamaro</a></h3>
-                <h4>React based eCommerce platform</h4>
+        <div class="row">
+            <div class="col s4 m4">
+                <div class="card medium">
+                    <div class="card-image waves-effect waves-block waves-light">
+                        <img class='demoPic'
+                            src="https://user-images.githubusercontent.com/88916382/181673287-2ce8ea42-6620-4dfd-81e8-7501325f20e8.png">
+                    </div>
+                    <div class="card-content">
+                        <span class="card-title">DCP Voting Form</span>
+                        <div>
+                            <p>An online tool for the Atlanta Department of City Planning to generate and submit NPU voting report
+                                forms.</p>
+                        </div>
+                    </div>
+                    <div class="card-action">
+                        <a href="https://github.com/UrbaneD0ge/VotingForm">View Repo</a>
+                    </div>
                 </div>
-                <div className="item">
-                    <a href="https://urbaned0ge.github.io/Musical-Time-Machine/" target="_blank" rel="noreferrer">
-                        <img src="https://i.ibb.co/p444Mxc/MTM.png" alt="Project1" className="small"/></a>
-                    <h3><a href="https://github.com/UrbaneD0ge/Musical-Time-Machine" target="_blank" rel="noreferrer">The MUSICAL Time Machine</a></h3>
-                    <h4>Multiple API calls take you back in time to find popular music of the day...</h4>
+            </div>
+
+            <div class="row">
+                <div class="col s4 m4">
+                    <div class="card medium">
+                        <div class="card-image">
+                            <img class='demoPic'
+                                src="https://user-images.githubusercontent.com/88916382/172173811-ddba31de-80e8-4651-aa72-6692fd26c455.png">
+                        </div>
+                        <div class="card-content">
+                            <span class="card-title">NPUNGL0TRON</span>
+                            <p>A Web-hosted version of the previous "NPUNGLR8R" CLI tool for generating form emails.</p>
+                        </div>
+                        <div class="card-action">
+                            <a href="https://github.com/UrbaneD0ge/NPUNGL0Tron-2">View Repo</a>
+                        </div>
+                    </div>
                 </div>
-                <div className="item">
-                    <a href="https://group-event-planner.herokuapp.com/login" target="_blank" rel="noreferrer">
-                        <img src="https://i.ibb.co/sgKfTyJ/Party-Plannerss.png" alt="PartyPlanner" className="small" /></a>
-                    <h3><a href="https://github.com/UrbaneD0ge/event-planner" target="_blank" rel="noreferrer">Party Planner</a></h3>
-                <h4>Full-stack web app for creating events and managing RSVPs</h4>
-                </div>
-                <div className="item">
-                    <a href="https://urbaned0ge.github.io/JS-Password-Generator/" target="_blank" rel="noreferrer">
-                        <img src="https://i.ibb.co/kXJ8L8G/PWgen.png" href="https://urbaned0ge.github.io/JS-Password-Generator/" alt="Project2" className="small" /></a>
-                    <h3><a href="https://github.com/UrbaneD0ge/JS-Password-Generator" target="_blank" rel="noreferrer">JS PW Gen</a></h3>
-                    <h4>Generate a randomized password based on user-selected parameters..</h4>
-                </div>
-                <div className="item">
-                    <a href="https://urbaned0ge.github.io/HW5-Work-Planner/" target="_blank" rel="noreferrer">
-                        <img src="https://i.ibb.co/VwzZthv/Planner.png" href="https://urbaned0ge.github.io/HW5-Work-Planner/" alt="Project3" className="small" /></a>
-                    <h3> <a href="https://github.com/UrbaneD0ge/HW5-Work-Planner" target="_blank" rel="noreferrer">Day Planner</a></h3>
-                    <h4>Utilizing Moment.js to create a time-aware daily planner.</h4>
-                </div>
-            </section>
-        </main>
-    )
+
+                <div class="row">
+                    <div class="col s4 m4">
+                        <div class="card medium">
+                            <div class="card-image">
+                                <img class='demoPic'
+                                    src="https://user-images.githubusercontent.com/88916382/200208354-56a02459-9712-4f41-b8b3-5da3fedaca0d.png">
+                            </div>
+                            <div class="card-content">
+                                <span class="card-title">Agendenator</span>
+                                <p>Database application for procedurally generating NPU agendas for the City of Atlanta.</p>
+                            </div>
+                            <div class="card-action">
+                                <a href="https://github.com/UrbaneD0ge/Agendenator">View Repo</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col s4 m4">
+                            <div class="card medium">
+                                <div class="card-image">
+                                    <img class='demoPic'
+                                        src="https://user-images.githubusercontent.com/88916382/181673287-2ce8ea42-6620-4dfd-81e8-7501325f20e8.png">
+                                </div>
+                                <div class="card-content">
+                                    <span class="card-title">DCP Voting Form</span>
+                                    <p>An online tool for the Atlanta Department of City Planning to generate and submit NPU voting
+                                        report
+                                        forms.</p>
+                                </div>
+                                <div class="card-action">
+                                    <a href="https://github.com/UrbaneD0ge/VotingForm">View Repo</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col s4 m4">
+                                <div class="card medium">
+                                    <div class="card-image">
+                                        <img class='demoPic'
+                                            src="https://user-images.githubusercontent.com/88916382/181673287-2ce8ea42-6620-4dfd-81e8-7501325f20e8.png">
+                                    </div>
+                                    <div class="card-content">
+                                        <span class="card-title">DCP Voting Form</span>
+                                        <p>An online tool for the Atlanta Department of City Planning to generate and submit NPU voting
+                                            report
+                                            forms.</p>
+                                    </div>
+                                    <div class="card-action">
+                                        <a href="https://github.com/UrbaneD0ge/VotingForm">View Repo</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        )
 }
 
-export default Work;
+                        export default Work;
