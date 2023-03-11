@@ -4,8 +4,9 @@ function Work() {
             <div class="col s4 m4">
                 <div class="card medium">
                     <div class="card-image waves-effect waves-block waves-light">
-                        <img class='demoPic'
-                            src="https://user-images.githubusercontent.com/88916382/181673287-2ce8ea42-6620-4dfd-81e8-7501325f20e8.png">
+                        <a href="https://urbaned0ge.github.io/VotingForm/" target="_blank" rel="noreferrer">
+                            <img class='demoPic'
+                            src="https://user-images.githubusercontent.com/88916382/181673287-2ce8ea42-6620-4dfd-81e8-7501325f20e8.png"></img></a>
                     </div>
                     <div class="card-content">
                         <span class="card-title">DCP Voting Form</span>
@@ -19,13 +20,13 @@ function Work() {
                     </div>
                 </div>
             </div>
-
+    
             <div class="row">
                 <div class="col s4 m4">
                     <div class="card medium">
                         <div class="card-image">
                             <img class='demoPic'
-                                src="https://user-images.githubusercontent.com/88916382/172173811-ddba31de-80e8-4651-aa72-6692fd26c455.png">
+                                src="https://user-images.githubusercontent.com/88916382/172173811-ddba31de-80e8-4651-aa72-6692fd26c455.png"></img>
                         </div>
                         <div class="card-content">
                             <span class="card-title">NPUNGL0TRON</span>
@@ -36,13 +37,13 @@ function Work() {
                         </div>
                     </div>
                 </div>
-
+                </div>
                 <div class="row">
                     <div class="col s4 m4">
                         <div class="card medium">
                             <div class="card-image">
                                 <img class='demoPic'
-                                    src="https://user-images.githubusercontent.com/88916382/200208354-56a02459-9712-4f41-b8b3-5da3fedaca0d.png">
+                                    src="https://user-images.githubusercontent.com/88916382/200208354-56a02459-9712-4f41-b8b3-5da3fedaca0d.png"></img>
                             </div>
                             <div class="card-content">
                                 <span class="card-title">Agendenator</span>
@@ -53,13 +54,14 @@ function Work() {
                             </div>
                         </div>
                     </div>
+                </div>
 
                     <div class="row">
                         <div class="col s4 m4">
                             <div class="card medium">
                                 <div class="card-image">
                                     <img class='demoPic'
-                                        src="https://user-images.githubusercontent.com/88916382/181673287-2ce8ea42-6620-4dfd-81e8-7501325f20e8.png">
+                                        src="https://user-images.githubusercontent.com/88916382/181673287-2ce8ea42-6620-4dfd-81e8-7501325f20e8.png"></img>
                                 </div>
                                 <div class="card-content">
                                     <span class="card-title">DCP Voting Form</span>
@@ -78,7 +80,7 @@ function Work() {
                                 <div class="card medium">
                                     <div class="card-image">
                                         <img class='demoPic'
-                                            src="https://user-images.githubusercontent.com/88916382/181673287-2ce8ea42-6620-4dfd-81e8-7501325f20e8.png">
+                                            src="https://user-images.githubusercontent.com/88916382/181673287-2ce8ea42-6620-4dfd-81e8-7501325f20e8.png"></img>
                                     </div>
                                     <div class="card-content">
                                         <span class="card-title">DCP Voting Form</span>
@@ -92,7 +94,11 @@ function Work() {
                                 </div>
                             </div>
                         </div>
-                        )
-}
+                    
+            </div>
+        </div>
+    )}
 
-                        export default Work;
+                    
+
+  export default Work;

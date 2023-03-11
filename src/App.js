@@ -94,11 +94,11 @@ function App() {
               <ul class="card contact tabs tabs-fixed-width black-text">
                 <li class="tab"><a href="tel:+4045906275">404.590.6275</a></li>
                 <li class="tab"><a href="mailto:Kip@KipDunlap.me">Kip@KipDunlap.me</a></li>
-                <li class="tab"><a href="https://github.com/UrbaneD0ge" target="_blank">Github</a></li>
-                <li class="tab"><a href="https://www.linkedin.com/in/kiplingdunlap/" target="_blank">LinkedIn</a>
+                <li class="tab"><a href="https://github.com/UrbaneD0ge" target="_blank" rel="noreferrer">Github</a></li>
+                <li class="tab"><a href="https://www.linkedin.com/in/kiplingdunlap/" target="_blank" rel="noreferrer">LinkedIn</a>
                 </li>
-                <li class="tab"><a href="https://twitter.com/UrbaneDoge" target="_blank">Twitter</a></li>
-                <li class="tab"><a href="https://open.spotify.com/user/pirateonptree" target="_blank">Spotify</a>
+                <li class="tab"><a href="https://twitter.com/UrbaneDoge" target="_blank" rel="noreferrer">Twitter</a></li>
+                <li class="tab"><a href="https://open.spotify.com/user/pirateonptree" target="_blank" rel="noreferrer">Spotify</a>
                 </li>
               </ul>
             </div>
