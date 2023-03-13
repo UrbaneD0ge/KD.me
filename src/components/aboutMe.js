@@ -19,6 +19,7 @@ function AboutMe() {
                                 target="_blank" rel="noreferrer">ThreadATL</a> For six years, he served as Chief Legislative Aide to <a
                                     href="https://www.legis.ga.gov/members/house/4880?session=1030" target="_blank" rel="noreferrer">Georgia
                                 House District 58 Representative Park Cannon</a>.<br></br>
+                                <br></br>
                             Kip is currently employed by the <a href="https://www.atlantaga.gov/government/departments/city-planning"
                                 target="_blank" rel="noreferrer">Atlanta Department of City Planning</a> as a Community Planner, where
                             he provides resources and support to the City's 25 Neighborhood Planning Units (NPUs). Several projects
