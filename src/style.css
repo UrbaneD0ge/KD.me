@@ -102,6 +102,10 @@ a {
   border-radius: 7px !important;
 }
 
+/* .project {
+  padding: 10px;
+} */
+
 .tabs {
   overflow-y: scroll;
 }

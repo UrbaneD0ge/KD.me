@@ -3,7 +3,7 @@ function App() {
     <div className="App">
 
       <main id='work' className="row">
-        <div className="col s12 m6 l6">
+        <div className="col s12 m6 l6 project">
           <div className="card medium">
             <div className="card-image waves-effect waves-block waves-light">
               <a href='https://urbaned0ge.github.io/VotingForm/' rel='noreferrer noopener' target='_blank'>
@@ -20,7 +20,7 @@ function App() {
         </div>
 
 
-        <div className="col s12 m6 l6">
+        <div className="col s12 m6 l6 project">
           <div className="card medium">
             <div className="card-image waves-effect waves-block waves-light">
               <a href='https://urbaned0ge.github.io/NPUNGL0Tron-2/' rel='noreferrer' target='_blank'>
@@ -36,7 +36,7 @@ function App() {
           </div>
         </div>
 
-        <div className="col s12 m6 l6">
+        <div className="col s12 m6 l6 project">
           <div className="card medium">
             <div className="card-image waves-effect waves-block waves-light">
               <a href="https://agendenator.onrender.com/" rel='noreferrer noopener' target='_blank'>
@@ -51,7 +51,7 @@ function App() {
           </div>
         </div>
 
-        <div className="col s12 m6 l6">
+        <div className="col s12 m6 l6 project">
           <div className="card medium">
             <div className="card-image waves-effect waves-block waves-light">
               <a href='https://urbaned0ge.github.io/Musical-Time-Machine/' rel='noreferrer noopener' target='_blank'>
@@ -67,7 +67,7 @@ function App() {
 
           </div>
 
-          {/* <!-- <div className="col s12 m6 l6">
+          {/* <!-- <div className="col s12 m6 l6 project">
             <div className="card medium">
               <div className="card-image">
                 <img className='demoPic'
