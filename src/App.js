@@ -46,7 +46,7 @@ function App() {
             <div className="card-action">
               <h2 className="card-title">Agendenator</h2>
               <a href="https://github.com/UrbaneD0ge/Agendenator" target='_blank' rel="noreferrer">View Repo</a>
-              <p>Database application for procedurally generating NPU agendas. Envisioned as a one-stop resource for Atlanta NPU staff to end duplication of data-entry tasks related to NPU agenda items.</p>
+              <p>Database application for procedurally generating NPU agendas. Envisioned as a one-stop resource for Atlanta NPU staff to end duplication of data-entry tasks.</p>
             </div>
           </div>
         </div>

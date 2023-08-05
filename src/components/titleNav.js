@@ -12,8 +12,8 @@ function titleNav() {
               target="_blank" rel="noreferrer">LinkedIn</a>
             </li>
             <li className="tab"><a href="https://twitter.com/UrbaneDoge" target="_blank" rel="noreferrer">Twitter</a></li>
-            <li className="tab"><a href="https://open.spotify.com/user/pirateonptree"
-              target="_blank" rel="noreferrer">Spotify</a>
+            <li className="tab"><a href="https://docs.google.com/document/d/1kV6fPIOeblYgp_2rdD9iy71cYNYIZnO7u1hNgb42Vus/edit?usp=sharing"
+              target="_blank" rel="noreferrer">Resume</a>
             </li>
           </ul>
         </div>
