@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600&display=swap');
 
 ::-webkit-scrollbar-track
 {
@@ -24,7 +24,7 @@ body {
   background: linear-gradient(135deg, rgb(0, 0, 0) 0%, rgb(64, 20, 103) 100%);
   animation: gradient 10s ease infinite;
   background-size: 200%;
-  font-family: 'Barlow', sans-serif;
+  font-family: 'Rubik', sans-serif;
   font-weight: 500;
   margin-block: 5dvh;
 }
@@ -43,35 +43,37 @@ body {
 
 h1 {
   font-size: 4em;
-  font-weight: 800;
+  font-weight: 600;
   /* font-style: italic; */
-  font-family: 'Barlow', sans-serif;
+  font-family: 'Rubik', sans-serif;
+  padding: 0 4vmin !important;
 }
 
 h2 {
   font-size: 2.5em;
-  font-weight: 600 !important;
-  font-family: 'Barlow', sans-serif;
+  font-weight: 500 !important;
+  font-family: 'Rubik', sans-serif;
 }
 
 h1, h2, h3 {
-  padding: 2vmin;
+  padding: 2vmin 0;
   margin: 0 !important;
 }
 
 a img {
   border: 1px solid rgba(0, 0, 0, 0.59);
-  opacity: 65%;
-  transition: all 1s ease-in-out;
+  /* opacity: 65%; */
+  /* transition: all 1s ease-in-out; */
 }
 
-a img:hover {
+/* a img:hover {
   opacity: 100%;
-}
+} */
 
 p {
+  font-weight: 400;
   font-size: 1.1em;
-  padding-block: 2vmin;
+  padding-block: 0;
   margin: 0 !important;
 }
 
@@ -94,10 +96,22 @@ a {
 
 .card, .card-action {
   border-radius: 7px;
-  padding: 5px;
   margin: 5px;
   height: clamp(100px, 45%, 500px);
   overflow: hidden;
+}
+
+.card {
+  scale: 1;
+  transition: all 1s ease-in-out;
+  padding: 5px 5px !important;
+}
+
+.medium:hover {
+  scale: 1.5;
+  z-index: 10;
+  transition: all 1s ease-in-out;
+  box-shadow: 30px 30px 300px 300px rgba(0, 0, 0, 0.8);
 }
 
 .demoPic {

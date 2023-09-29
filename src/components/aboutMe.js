@@ -7,23 +7,23 @@ function AboutMe() {
                         <h2 className='card-title'>Bio</h2>
                         <p> Born and raised in the Atlanta area; Kip holds a Bachelor of Science degree in Public Policy
                             Analysis from
-                            Georgia State University, and received a certificate in Full-Stack Web Development coding from Georgia
+                            Georgia State University, and received a certificate in Full-Stack Web Development Coding from Georgia
                             Tech's
                             Bootcamp in December of 2021.
                             <br /><br />
                             Kip spent the better part of a decade working in the Land Use and Public Transit Advocacy fields as a
-                            practitioner of Transportation Demand Management ("TDM") and was a member of <a
-                                href="https://www.actweb.org/" alt="ThreadATL" target="_blank" rel="noreferrer">Americans for Commuter
+                            practitioner of Transportation Demand Management ("TDM"). He was a member of <a
+                                href="https://www.actweb.org/" alt="Americans for Commuter Transportation link" target="_blank" rel="noreferrer">Americans for Commuter
                                 Transportation</a> and served on the
-                            board of the Atlanta planning advocacy group, <a href="https://www.threadatl.org/" alt="ThreadATL"
-                                target="_blank" rel="noreferrer">ThreadATL</a> For six years, he served as Chief Legislative Aide to <a
+                            board of the Atlanta planning advocacy group <a href="https://www.threadatl.org/" alt="ThreadATL"
+                                target="_blank" rel="noreferrer">ThreadATL</a>. For six years, he served as Chief Legislative Aide to <a
                                     href="https://www.legis.ga.gov/members/house/4880?session=1030" target="_blank" rel="noreferrer">Georgia
-                                House District 58 Representative Park Cannon</a>.<br></br>
-                                <br></br>
+                                House District 58 Representative Park Cannon</a> with whom he remains a lifelong friend and ardent supporter.<br></br>
+                            <br></br>
                             Kip is currently employed by the <a href="https://www.atlantaga.gov/government/departments/city-planning"
-                                target="_blank" rel="noreferrer">Atlanta Department of City Planning</a> as a Community Planner, where
+                                target="_blank" rel="noreferrer">Atlanta Department of City Planning</a> as a Program Coordinator, where
                             he provides resources and support to the City's 25 Neighborhood Planning Units (NPUs). Several projects
-                            below were created in service of this role, and are currently in use by the City's Planning staff.
+                            here were created in service of this role, and are currently in use by City Planning staff.
                         </p>
                     </div>
                 </div>
