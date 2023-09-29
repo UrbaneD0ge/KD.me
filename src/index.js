@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import TitleNav from './components/titleNav';
 import AboutMe from './components/aboutMe';
-import Footer from './components/Footer';
+import Footer from './components/footer';
 
 ReactDOM.render(
   <React.StrictMode>
