@@ -103,14 +103,14 @@ a {
 
 .card {
   scale: 1;
-  transition: all 1s ease-in-out;
+  transition: all .2s ease-in-out;
   padding: 5px 5px !important;
 }
 
 .medium:hover {
   scale: 1.5;
   z-index: 10;
-  transition: all 1s ease-in-out;
+  transition: all .2s ease-in-out;
   box-shadow: 30px 30px 300px 300px rgba(0, 0, 0, 0.8);
 }
 
