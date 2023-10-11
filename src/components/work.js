@@ -56,47 +56,7 @@ function Work() {
                 </div>
             </div>
 
-            {/* <div class="row">
-                <div class="col s4 m4">
-                    <div class="card medium">
-                        <div class="card-image">
-                            <img class='demoPic' alt="DCP Voting Form Demo"
-                                src="https://user-images.githubusercontent.com/88916382/181673287-2ce8ea42-6620-4dfd-81e8-7501325f20e8.png"></img>
-                        </div>
-                        <div class="card-content">
-                            <span class="card-title">DCP Voting Form</span>
-                            <p>An online tool for the Atlanta Department of City Planning to generate and submit NPU voting
-                                report
-                                forms.</p>
-                        </div>
-                        <div class="card-action">
-                            <a href="https://github.com/UrbaneD0ge/VotingForm">View Repo</a>
-                        </div>
-                    </div>
-                </div> */}
-
-            {/* <div class="row">
-                    <div class="col s4 m4">
-                        <div class="card medium">
-                            <div class="card-image">
-                                <img class='demoPic' alt="DCP Voting Form Demo"
-                                    src="https://user-images.githubusercontent.com/88916382/181673287-2ce8ea42-6620-4dfd-81e8-7501325f20e8.png"></img>
-                            </div>
-                            <div class="card-content">
-                                <span class="card-title">DCP Voting Form</span>
-                                <p>An online tool for the Atlanta Department of City Planning to generate and submit NPU voting
-                                    report
-                                    forms.</p>
-                            </div>
-                            <div class="card-action">
-                                <a href="https://github.com/UrbaneD0ge/VotingForm">View Repo</a>
-                            </div>
-                        </div>
-                    </div>
-                </div> */}
-
         </div>
-        </div >
     )
 }
 
