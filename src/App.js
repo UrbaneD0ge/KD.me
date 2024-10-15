@@ -64,7 +64,7 @@ function App() {
           </div>
         </div>
 
-        <div className="col s12 m6 l6 project">
+        {/* <div className="col s12 m6 l6 project">
           <div className="card medium">
             <div className="card-image waves-effect waves-block waves-light">
               <a href='https://urbaned0ge.github.io/NPUNGL0Tron-2/' rel='noreferrer' target='_blank'>
@@ -78,7 +78,7 @@ function App() {
                 Now with additional tools and resources.</p>
             </div>
           </div>
-        </div>
+        </div> */}
 
         <div className="col s12 m6 l6 project">
           <div className="card medium">

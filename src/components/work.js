@@ -21,7 +21,7 @@ function Work() {
                 </div>
             </div>
 
-            <div class="row">
+            {/* <div class="row">
                 <div class="col s4 m4">
                     <div class="card medium">
                         <div class="card-image">
@@ -37,7 +37,7 @@ function Work() {
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> */}
             <div class="row">
                 <div class="col s4 m4">
                     <div class="card medium">
