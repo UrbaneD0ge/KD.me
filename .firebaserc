@@ -1,5 +1,15 @@
 {
   "projects": {
     "default": "kdme-ba340"
-  }
+  },
+  "targets": {
+    "kdme-ba340": {
+      "hosting": {
+        "kd.me": [
+          "kdme-ba340"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }
