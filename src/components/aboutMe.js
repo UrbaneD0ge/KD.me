@@ -12,7 +12,7 @@ function AboutMe() {
                             Bootcamp in December of 2021.
                             <br /><br />
                             Kip spent the better part of a decade working in the Land Use and Public Transit Advocacy fields as a
-                            practitioner of Transportation Demand Management ("TDM"). He was a member of <a
+                            practitioner of Transportation Demand Management ("TDM"). He is a member of <a
                                 href="https://www.actweb.org/" alt="Americans for Commuter Transportation link" target="_blank" rel="noreferrer">Americans for Commuter
                                 Transportation</a> and served on the
                             board of the Atlanta planning advocacy group <a href="https://www.threadatl.org/" alt="ThreadATL"
@@ -20,10 +20,13 @@ function AboutMe() {
                                     href="https://www.legis.ga.gov/members/house/4880?session=1030" target="_blank" rel="noreferrer">Georgia
                                 House District 58 Representative Park Cannon</a> with whom he remains a lifelong friend and ardent supporter.<br></br>
                             <br></br>
-                            Kip is currently employed by the <a href="https://www.atlantaga.gov/government/departments/city-planning"
+                            Kip was previously employed by the <a href="https://www.atlantaga.gov/government/departments/city-planning"
                                 target="_blank" rel="noreferrer">Atlanta Department of City Planning</a> as a Program Coordinator, where
-                            he provides resources and support to the City's 25 Neighborhood Planning Units (NPUs). Several projects
+                            he provided resources and support to the City's 25 Neighborhood Planning Units (NPUs). Several projects
                             here were created in service of this role, and are currently in use by City Planning staff.
+                            <br></br>
+                            <br></br>
+                            As of December 2024, he is the Outreach Lead for <a href="https://gacommuteoptions.com/" target="_blank" rel="noopener noreferrer">Georgia Commute Options</a>, a program of the Atlanta Regional Commission, funded by the Georgia Department of Transportation. He leads the program's outreach team promoting sustainable transportation options in the Atlanta region. The role is housed at <a href="https://www.foursquareitp.com/" target="_blank" rel="noopener noreferrer">Foursquare ITP</a>, a national transportation consulting firm, headquartered in Washington, D.C.
                         </p>
                     </div>
                 </div>
