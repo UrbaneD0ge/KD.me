@@ -2,7 +2,15 @@
   "workbench.colorCustomizations": {
     "activityBar.background": "#013601",
     "titleBar.activeBackground": "#014C01",
-    "titleBar.activeForeground": "#ECFFEC"
+    "titleBar.activeForeground": "#ECFFEC",
+    "titleBar.inactiveBackground": "#013601",
+    "titleBar.inactiveForeground": "#ECFFEC",
+    "statusBar.background": "#013601",
+    "statusBar.foreground": "#ECFFEC",
+    "statusBar.debuggingBackground": "#013601",
+    "statusBar.debuggingForeground": "#ECFFEC",
+    "statusBar.noFolderBackground": "#013601",
+    "statusBar.noFolderForeground": "#ECFFEC"
   },
   "cSpell.words": [
     "Agendenator",
